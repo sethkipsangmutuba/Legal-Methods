@@ -21,9 +21,7 @@
 - [3. Role of the Commission for University Education (CUE)](#3-role-of-the-commission-for-university-education-cue)  
 - [4. Minimum Admission Requirements](#4-minimum-admission-requirements)  
 - [5. Additional Academic Requirements](#5-additional-academic-requirements)
-
 - ### LAW DEGREE CURRICULUM AND ADVOCATES TRAINING PROGRAMME
-
 ---
  Table of Contents  
 - [1. Introduction](#1-introduction)  
