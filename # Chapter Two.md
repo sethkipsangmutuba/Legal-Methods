@@ -24,7 +24,11 @@
     - [Jurisdiction](#jurisdiction)
     - [Advisory Opinions](#advisory-opinions)
     - [Special Jurisdiction](#special-jurisdiction)
-
+- [The Court of Appeal](#the-court-of-appeal)
+- [The High Court](#the-high-court)
+- [Courts with the Status of the High Court](#courts-with-the-status-of-the-high-court)
+  - [Employment and Labour Relations Court (ELRC)](#employment-and-labour-relations-court-elrc)
+  - [Environment and Land Court (ELC)](#environment-and-land-court-elc)
 ---
 
 ## History
@@ -254,5 +258,119 @@ However, **Section 14(5)** of the Act allows flexibility:
 This potentially gives the court power to extend reviews beyond the original time limit.
 
 ---
+
+## The Court of Appeal
+
+The Court of Appeal is established under **Article 164(1)** of the Constitution. It is composed of judges whose number is determined by an Act of Parliament, with the minimum being **twelve** judges.
+
+### Leadership
+
+- Headed by a **President** of the Court, elected by judges of the Court of Appeal from among themselves.
+
+### Jurisdiction
+
+The Court of Appeal has **appellate jurisdiction** and hears appeals from:
+- The **High Court**
+- Any other **court or tribunal** as may be prescribed by an Act of Parliament
+
+This includes appeals from courts with the status of the High Court:
+- Environment and Land Court (ELC)
+- Employment and Labour Relations Court (ELRC)
+
+---
+
+## The High Court
+
+The High Court is established under **Article 165(1)** of the Constitution. It is a **superior court** with broad original and appellate jurisdiction.
+
+### Leadership
+
+- Headed by a **Principal Judge**, elected by judges of the High Court.
+
+### Jurisdiction (Article 165(3))
+
+The High Court has:
+
+- **(a)** Unlimited original jurisdiction in **criminal and civil matters**
+- **(b)** Jurisdiction to enforce the **Bill of Rights**
+- **(c)** Jurisdiction to hear appeals from constitutional tribunals (excluding Article 144 tribunals)
+- **(d)** Jurisdiction over constitutional interpretation, including:
+  - Inconsistency of law with the Constitution
+  - Questions of legality under the Constitution
+  - Issues concerning **county and national government** relationships
+  - **Conflict of laws** under Article 191
+- **(e)** Any additional jurisdiction conferred by legislation
+
+> ⚖️ **Unlimited original jurisdiction** means the High Court can hear all matters unless jurisdiction has been exclusively assigned elsewhere.
+
+**Appeals** from the High Court lie with the **Court of Appeal**.
+
+---
+
+## Courts with the Status of the High Court
+
+**Article 162(2)** of the Constitution mandates Parliament to create courts with the status of the High Court to handle specific legal domains:
+
+- **Employment and Labour Relations**
+- **Environment and Land**
+
+These courts are established under:
+- **Employment and Labour Relations Court Act, 2011 (ELRCA)**
+- **Environment and Land Court Act, 2011 (ELCA)**
+
+---
+
+### Employment and Labour Relations Court (ELRC)
+
+Established under **Section 4** of the ELRCA.
+
+#### Jurisdiction (Section 12 of ELRCA)
+
+The ELRC has **exclusive original and appellate jurisdiction** over all disputes related to employment and labour relations, including:
+
+- Disputes between employer and employee
+- Employer vs. trade union
+- Employers' organizations vs. trade unions
+- Between trade unions
+- Among employers’ organizations
+- Trade union and its members
+- Employers' federation and its members
+- Registration/election of union officials
+- **Registration/enforcement of collective agreements**
+
+> 🧑‍⚖️ This jurisdiction ensures that all industrial disputes are dealt with efficiently by a specialized court with technical expertise.
+
+---
+
+### Environment and Land Court (ELC)
+
+Established under **Section 4 of ELCA**.
+
+#### Jurisdiction (Section 13 of ELCA)
+
+The ELC has **original and appellate jurisdiction** to determine all matters relating to land and the environment, including:
+
+- Environmental planning and protection
+- Climate change and land use planning
+- Title, tenure, boundaries, valuation, rent, rates
+- Mining and mineral rights
+- Natural resources
+- Compulsory acquisition of land
+- Land administration and management
+- Contracts or instruments creating interests in land
+- Disputes over **public, private, or community land**
+
+> 🌍 The court also hears matters concerning the **right to a clean and healthy environment**, protected under Articles **42, 69, and 70** of the Constitution.
+
+#### Appeals
+
+The ELC has **appellate jurisdiction** over:
+- Decisions of **subordinate courts**
+- **Local tribunals** dealing with land or environmental disputes
+
+> 📌 This appellate structure ensures that land and environmental matters receive expert judicial attention, reducing the burden on the High Court.
+
+---
+
 
 
