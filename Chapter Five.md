@@ -15,6 +15,14 @@
   - [5.1 Practising Certificate](#51-practising-certificate)
   - [5.2 Practising Without Qualification](#52-practising-without-qualification)
 - [6. Special Categories of Advocates](#6-special-categories-of-advocates)
+-  Qualification to Study Law in Kenya
+- [1. Introduction](#1-introduction)  
+- [2. Qualification to Study Law in Kenya](#2-qualification-to-study-law-in-kenya)  
+- [3. Role of the Commission for University Education (CUE)](#3-role-of-the-commission-for-university-education-cue)  
+- [4. Minimum Admission Requirements](#4-minimum-admission-requirements)  
+- [5. Additional Academic Requirements](#5-additional-academic-requirements)  
+
+---
 
 ---
 
@@ -134,7 +142,91 @@ Some officers can **act as advocates without being formally admitted**, as permi
 
 However, such officers can **only act within the scope of their official duties** and not in private legal practice.
 
+
+---
+# Qualification to Study Law in Kenya
+
+### 1. Introduction
+
+The study of law in Kenya is **direct-entry** from high school, meaning it is undertaken as a **first degree** (Bachelor of Laws – LL.B). This differs from some jurisdictions such as the **United States** and **India**, where a student must first earn a **non-law undergraduate degree** before qualifying to study law at graduate level.
+
 ---
 
-> _“Legal education and admission to the bar in Kenya is a structured, multi-step process, with strict statutory and regulatory oversight to maintain professional standards and protect public interest.”_
+### 2. Qualification to Study Law in Kenya
+
+A **form four leaver** who has sat for the **Kenya Certificate of Secondary Education (KCSE)** and scored a **minimum mean grade of C+** is eligible to apply for an undergraduate degree in law in any **public or private university** in Kenya.
+
+However, since most LL.B graduates are expected to proceed to the **Kenya School of Law (KSL)** for the **Advocates Training Programme (ATP)**, the **language requirements** set for the ATP have been **cascaded down** to undergraduate law admission as well.
+
+---
+
+### 3. Role of the Commission for University Education (CUE)
+
+The **Commission for University Education (CUE)** is the statutory body responsible for setting **minimum standards for admission** into university programmes in Kenya.  
+
+- It is established under **Section 4 of the Universities Act, 2022**.
+- Through **Rule 11** of the **Universities (Establishment of the Universities) (Standardization, Accreditation and Supervision) Rules, 1989**, CUE developed:
+  > **“Standards and Guidelines for University Programmes.”**
+
+Under **Rule 7** of the guidelines, the minimum admission requirements into **undergraduate degree programmes** (including law) are outlined.
+
+---
+
+### 4. Minimum Admission Requirements
+
+Below are the approved pathways for admission into a Bachelor of Laws (LL.B) programme:
+
+- **KCSE Route**:  
+  - Minimum **mean grade of C+**
+
+- **IGCSE Route (International General Certificate of Secondary Education)**:  
+  - Minimum of **5 credits**
+
+- **International Baccalaureate (IB)**:  
+  - Minimum of **24 out of 45 points**
+
+- **A-Level Route (Kenya Advanced Certificate of Education – KACE)**:  
+  - Minimum of **two principal passes**
+
+- **Pre-University Qualification Holders**:  
+  - At least **C (plain) in KCSE** and  
+  - Completion of a **recognized pre-university programme**
+
+- **Diploma Holders**:  
+  - Diploma in any field from a **recognized institution**  
+  - Minimum GPA: **Credit C (2.50 out of 4.00)**
+
+- **Other Equivalents**:  
+  - As determined by the **Kenya National Examination Council (KNEC)**
+
+---
+
+### 5. Additional Academic Requirements
+
+Apart from general academic qualifications, the **Council for Legal Education (CLE)** has imposed **language proficiency requirements** through:
+
+> **The Legal Education (Accreditation and Quality Assurance) Regulations, 2016**
+
+According to **Paragraph 5 of the Third Schedule**, the **minimum qualifications** for entry into an undergraduate law programme include:
+
+- **KCSE Graduates**:
+  - Mean Grade: **C+**
+  - Language Proficiency: **B (Plain)** in **English or Kiswahili**
+
+- **A-Level Graduates**:
+  - At least **three Principal Passes** in **KACE**
+
+- **Degree Holders**:
+  - Must hold a **degree from a recognized university**
+
+- **Diploma in Law Holders**:
+  - Must have a **Credit Pass** from an **accredited legal training institution**
+
+> ⚠️ **Note**: Students who do not meet the **language requirement** (B in English or Kiswahili) cannot be admitted into accredited LL.B programmes intended to lead to qualification for the **Advocates Training Programme (ATP)**.
+
+---
+
+> _“In Kenya, studying law is both academically and professionally rigorous, with clear regulatory standards aimed at ensuring competent legal practitioners are produced for national and global legal practice.”_
+
+
 
