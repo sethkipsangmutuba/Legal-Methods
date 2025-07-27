@@ -40,6 +40,14 @@
 - [5. Nationality and Bar Admission](#5-nationality-and-bar-admission)  
 - [6. Discrimination and Case Law](#6-discrimination-and-case-law)  
 - [7. Conclusion](#7-conclusion)
+- ### PATHWAYS TO BECOMING AN ADVOCATE IN KENYA
+---
+- [1. Overview of Pathways](#1-overview-of-pathways)  
+- [2. Section 13(1)(a)-(c): ATP Route](#2-section-131a-c-atp-route)  
+- [3. Section 13(1)(d): Advocates from EAC States](#3-section-131d-advocates-from-eac-states)  
+- [4. Section 13(1)(e): Commonwealth Advocates](#4-section-131e-commonwealth-advocates)  
+- [5. Section 11: Temporary Admission by Attorney-General](#5-section-11-temporary-admission-by-attorney-general)  
+- [6. Case Law Interpretation and Eligibility Expansion](#6-case-law-interpretation-and-eligibility-expansion)
 
 
 ---
@@ -455,6 +463,111 @@ Several cases have challenged the **restrictive interpretation** of Section 12, 
 
 #### 📌 Final Word:
 The **legal and judicial frameworks** underscore Kenya’s intent to **uphold quality and equality** in its legal profession. Prospective candidates must comply strictly with both **academic and nationality** requirements, although **courts have ensured fairness and inclusivity** where discriminatory gaps exist in the law.
+
+---
+# PATHWAYS TO BECOMING AN ADVOCATE IN KENYA
+
+---
+
+### 1. Overview of Pathways
+
+There are **four main legal pathways** through which one can be admitted as an **Advocate of the High Court of Kenya**, as prescribed under the **Advocates Act (Cap 16)**:
+
+1. **Section 13(1)(a), (b), (c)** – Via **Kenya School of Law’s Advocates Training Programme (ATP)**
+2. **Section 13(1)(d)** – **Mutual recognition** of Advocates from **Rwanda, Burundi, Uganda, or Tanzania**
+3. **Section 13(1)(e)** – Admission of **Commonwealth country advocates** with 5+ years of practice
+4. **Section 11** – **Temporary admission** by the **Attorney-General** for a specific matter
+
+---
+
+### 2. Section 13(1)(a)-(c): ATP Route
+
+This is the **standard route** for law graduates from **Kenya and other East African Community (EAC)** countries.
+
+#### Requirements:
+- Bachelor of Laws (LL.B) degree from a recognized university.
+- Completion of the **Advocates Training Programme (ATP)** at the **Kenya School of Law**, which includes:
+  - **Tuition/coursework**.
+  - **Pupillage** under an advocate of prescribed standing.
+
+#### Duration:
+- The ATP and pupillage last **a maximum of 18 months** combined.
+
+#### Pupillage Placement:
+- Under an **advocate of prescribed class**.
+- Or within authorized institutions, including:
+  - The **Office of the Attorney-General**.
+  - The **Office of the Director of Public Prosecutions (ODPP)**.
+
+---
+
+### 3. Section 13(1)(d): Advocates from EAC States
+
+Advocates who are **already enrolled in the High Court of Uganda, Tanzania, Rwanda, or Burundi** may apply for admission **without repeating ATP**.
+
+This provision relies on **regional integration** under the **East African Community Treaty**, facilitating **mutual professional recognition** among partner states.
+
+---
+
+### 4. Section 13(1)(e): Commonwealth Advocates
+
+Advocates from any **Commonwealth country** may be admitted **if**:
+
+- They have practiced law in that country for **at least five (5) years**.
+- They are **members of a professional advocates’ body** in that country.
+
+This route is used by senior practitioners from countries like **Nigeria, the UK, or India**, seeking practice rights in Kenya.
+
+---
+
+### 5. Section 11: Temporary Admission by Attorney-General
+
+Under Section 11 of the Advocates Act:
+
+- A **foreign advocate** may be granted **admission for a specific matter**.
+- Must:
+  - Be **entitled to appear before a superior court** in a **Commonwealth country**.
+  - Be **instructed by** the **Attorney-General** or a **Kenyan advocate**.
+- Must **pay admission fees** before appearing.
+
+> ⚠️ **Restrictions:**
+- May **not appear alone in court** – must appear **with a Kenyan advocate**.
+- May **not sign pleadings**.
+- Admission is **case-specific and temporary**.
+
+---
+
+### 6. Case Law Interpretation and Eligibility Expansion
+
+#### 🔹 *Jonnah Tusasirwe & 10 Others v CLE & 3 Others [2017] eKLR*
+
+- Petitioners included nationals **not explicitly covered under Section 12** of the Advocates Act.
+- The court held:
+  > _"Nothing in the law bars these petitioners from admission to the ATP. Past practice includes students from Nigeria, Cameroon, Gambia, etc."_
+
+#### 🔹 *Steve Isaac Kawai & 2 Others v CLE & 2 Others [2021] eKLR*
+
+- Involved **South Sudanese nationals**, some of whom were refugees.
+- The High Court found Section 12 to be **discriminatory**, stating:
+  > _"Citizens of new EAC member states must not be denied equal access to ATP. Exclusion solely based on timing of accession violates constitutional rights."_
+
+#### 🔹 Implication:
+- **Judicial interpretation has expanded eligibility** to include nationals of:
+  - South Sudan
+  - Cameroon
+  - Nigeria
+  - Malawi
+  - Gambia  
+  and others, even when **not named under Section 12** of the Advocates Act.
+
+---
+
+### 📌 Conclusion
+
+The Kenyan legal system provides **multiple entry points** into the legal profession, with the **ATP route as the main pipeline**. However, **regional integration**, **Commonwealth cooperation**, and **case law interpretations** have broadened access:
+
+- While **statute limits access**, courts have shown a **progressive interpretation** to avoid discrimination.
+- Understanding **both the legal provisions and case law developments** is key to navigating this process.
 
 ---
 
