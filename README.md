@@ -12,8 +12,7 @@
    - [Topic 5: Islamic Legal System](#topic-5-islamic-legal-system)  
    - [Topic 6: Legal Education, Training, and Practice](#topic-6-legal-education-training-and-practice)  
    - [Topic 7: Interpretation of Law](#topic-7-interpretation-of-law)  
-4. [Assessment Structure](#assessment-structure)  
-5. [Course Textbooks](#course-textbooks)  
+4. [Course Textbooks](#course-textbooks)  
    - [Core Texts](#core-texts)  
    - [Additional References](#additional-references)  
 6. [Recommended Journals](#recommended-journals)  
@@ -89,13 +88,6 @@ By the end of this course, students should be able to:
   - Literal Rule  
   - Golden Rule  
   - Mischief Rule
-
----
-
-## Assessment Structure
-
-- **Continuous Assessment Test (C.A.T):** 30%  
-- **Final Examination:** 70%
 
 ---
 
