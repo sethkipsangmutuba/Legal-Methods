@@ -33,6 +33,17 @@
     - [Magistrates’ Courts](#magistrates-courts)
     - [Kadhis’ Courts](#kadhis-courts)
     - [Courts Martial](#courts-martial)
+ -THE PLACE OF CUSTOMARY LAW IN KENYA
+  - [1. Introduction](#1-introduction)
+  - [2. Customary Law under the Judicature Act](#2-customary-law-under-the-judicature-act)
+  - [3. Colonial Courts and Customary Law](#3-colonial-courts-and-customary-law)
+  - [4. Repugnancy Test and Judicial Attitudes](#4-repugnancy-test-and-judicial-attitudes)
+  - [5. Criminal Offences and Customary Law](#5-criminal-offences-and-customary-law)
+  - [6. Government Efforts to Restate Customary Law](#6-government-efforts-to-restate-customary-law)
+  - [7. Post-Independence Court Approach](#7-post-independence-court-approach)
+  - [8. Key Judicial Pronouncements](#8-key-judicial-pronouncements)
+  - [9. Development and Flexibility of Customary Law](#9-development-and-flexibility-of-customary-law)
+  - [10. Conclusion](#10-conclusion)
 ---
 
 ## History
@@ -475,6 +486,137 @@ Under the **Kenya Defence Forces Act, 2012**, the court consists of:
 - Appeals lie with the **High Court** under **Section 186** of the Kenya Defence Forces Act.
 
 ---
+#THE PLACE OF CUSTOMARY LAW IN KENYA
+---
+
+## Table of Contents
+
+- [1. Introduction](#1-introduction)
+- [2. Customary Law under the Judicature Act](#2-customary-law-under-the-judicature-act)
+- [3. Colonial Courts and Customary Law](#3-colonial-courts-and-customary-law)
+- [4. Repugnancy Test and Judicial Attitudes](#4-repugnancy-test-and-judicial-attitudes)
+- [5. Criminal Offences and Customary Law](#5-criminal-offences-and-customary-law)
+- [6. Government Efforts to Restate Customary Law](#6-government-efforts-to-restate-customary-law)
+- [7. Post-Independence Court Approach](#7-post-independence-court-approach)
+- [8. Key Judicial Pronouncements](#8-key-judicial-pronouncements)
+- [9. Development and Flexibility of Customary Law](#9-development-and-flexibility-of-customary-law)
+- [10. Conclusion](#10-conclusion)
+
+---
+
+## 1. Introduction
+
+Customary law remains a foundational source of law in Kenya. It governs various aspects of civil life and exists alongside common law, Islamic law, and statutory law. The Judicature Act of Kenya formally acknowledges customary law as applicable in certain circumstances, particularly civil matters involving parties subject to such customs.
+
+---
+
+## 2. Customary Law under the Judicature Act
+
+Section 3(2) of the **Judicature Act** states:
+
+> _“The Supreme Court, the Court of Appeal, the High Court, the Environment and Land Court, the Employment and Labour Relations Court and all subordinate courts shall be guided by African customary law in civil cases in which one or more of the parties is subject to it or affected by it, so far as it is applicable and is not repugnant to justice and morality or inconsistent with any written law...”_
+
+Key Takeaways:
+- Courts are **guided**, not **bound**, by customary law.
+- Customary law applies if **relevant to the parties** involved.
+- It must pass the **repugnancy and consistency test**.
+
+---
+
+## 3. Colonial Courts and Customary Law
+
+During colonial rule, a **dual legal system** existed:
+- **Native Tribunals** applied customary law to Africans.
+- **Colonial Courts** applied English law.
+
+Example:
+- The **Native Tribunal Ordinance** and **Kenya Order in Council 1921** allowed courts to apply customary law _unless_ it was **repugnant** or **inconsistent** with formal statutes.
+
+---
+
+## 4. Repugnancy Test and Judicial Attitudes
+
+Colonial courts often dismissed African customs as immoral or backward:
+- In **Rex v. Amkeyo (1917)**, **Hamilton, C.J.** described African marriages as "wife-purchase" and not valid marriages.
+- In **Gwao Bin Kilimo v. Kisunda Bin Ifuti (1938)**, **Wilson, J.** rejected a custom requiring a father to pay for a son’s crimes, calling it unjust.
+
+---
+
+## 5. Criminal Offences and Customary Law
+
+Initially, native tribunals handled some criminal matters, but:
+- **Phillips Report (1944)** criticized native criminal justice.
+- Over time, **Penal Code** replaced customary criminal laws.
+- By **independence**, only **10 customary criminal offences** remained.
+
+---
+
+## 6. Government Efforts to Restate Customary Law
+
+Efforts to document customary laws led to:
+- **Restatement of African Law – Kenya (Marriage & Divorce)**, 1968
+- **Restatement of African Law – Kenya (Succession)**, 1968
+
+This preserved the customs for use in civil cases and made them intelligible to courts.
+
+---
+
+## 7. Post-Independence Court Approach
+
+After independence, judicial attitudes improved:
+- In **Kimani v. Gikanga (1965)**, the court reaffirmed that customary law is part of Kenya’s legal system.
+- In **Muli v. Kithuka (1969)**, **Miller J.** emphasized that marriages under customary law are **not inferior** to statutory ones.
+
+---
+
+## 8. Key Judicial Pronouncements
+
+### Repugnancy Reconsidered:
+In **Kamau v. Wanja (1974)**, a Kikuyu custom allowing a widow to remarry was upheld by **Kneller, J.**
+
+### The Otieno Burial Case:
+**Virginia Edith Wambui Otieno v. Joash Ochieng Ougo (1987)** – Court held that:
+- A Luo man must be buried according to clan customs.
+- Personal wishes may not override **clan burial traditions**.
+
+---
+
+## 9. Development and Flexibility of Customary Law
+
+### Judicial Reforms and Flexibility
+
+#### Re Kibiego (1972):
+**Madan J.** appointed a widow as estate administrator despite contrary Nandi customs.  
+> _"A legal system ought to march with the changing conditions fitting itself into the aspirations of the people it is supposed to serve."_
+
+#### Peter Hinga v. Mary Wanjiku (1977):
+Even though **Ngurario** (dowry rite) wasn't performed, the court upheld the existence of a valid marriage due to long cohabitation and children born.
+
+### Modern Interpretation:
+
+In **Martha Wanjiru Kimata v. Dorcas Wanjiru (2015)** and **Ruth Wanjiru Njoroge v. Jemimah Njeri Njoroge (2004)**, courts emphasized:
+- The **dynamic nature** of customary law.
+- The **legal proximity** to the deceased, especially in burial disputes, often favors the spouse over clan demands.
+
+---
+
+## 10. Conclusion
+
+Kenya’s legal system is a **hybrid**:
+- **Dominated by Common Law**, but also includes:
+  - **Customary law** (civil matters, family law, succession)
+  - **Islamic law** (family matters, inheritance)
+  - **Hindu law** (limited application)
+
+The courts continue to evolve in their interpretation of customary law, balancing:
+- Respect for tradition
+- Protection of individual rights
+- The demands of a modern constitutional democracy
+
+---
+
+> _“Customary law, like all law, must remain responsive to the society it serves.”_
+
 
 
 
