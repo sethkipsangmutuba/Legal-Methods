@@ -30,8 +30,7 @@
 - [4. Optional Courses](#4-optional-courses)  
 - [5. Advocates Training Programme (ATP)](#5-advocates-training-programme-atp)  
 - [6. Admission to the Advocates Training Programme](#6-admission-to-the-advocates-training-programme)
-   
--### LANGUAGE AND NATIONALITY REQUIREMENTS FOR ADMISSION TO THE ADVOCATES TRAINING PROGRAMME
+- ### LANGUAGE AND NATIONALITY REQUIREMENTS FOR ADMISSION TO THE ADVOCATES TRAINING PROGRAMME
 
 ---
 - [1. English or Kiswahili KCSE Requirement](#1-english-or-kiswahili-kcse-requirement)  
