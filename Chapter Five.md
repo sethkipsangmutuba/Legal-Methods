@@ -20,7 +20,19 @@
 - [2. Qualification to Study Law in Kenya](#2-qualification-to-study-law-in-kenya)  
 - [3. Role of the Commission for University Education (CUE)](#3-role-of-the-commission-for-university-education-cue)  
 - [4. Minimum Admission Requirements](#4-minimum-admission-requirements)  
-- [5. Additional Academic Requirements](#5-additional-academic-requirements)  
+- [5. Additional Academic Requirements](#5-additional-academic-requirements)
+
+- ### LAW DEGREE CURRICULUM AND ADVOCATES TRAINING PROGRAMME
+
+---
+ Table of Contents  
+- [1. Introduction](#1-introduction)  
+- [2. Licensing of Law Schools in Kenya](#2-licensing-of-law-schools-in-kenya)  
+- [3. Core Courses Required by Law](#3-core-courses-required-by-law)  
+- [4. Optional Courses](#4-optional-courses)  
+- [5. Advocates Training Programme (ATP)](#5-advocates-training-programme-atp)  
+- [6. Admission to the Advocates Training Programme](#6-admission-to-the-advocates-training-programme)
+
 
 ---
 
@@ -226,7 +238,119 @@ According to **Paragraph 5 of the Third Schedule**, the **minimum qualifications
 
 ---
 
-> _“In Kenya, studying law is both academically and professionally rigorous, with clear regulatory standards aimed at ensuring competent legal practitioners are produced for national and global legal practice.”_
+
+# LAW DEGREE CURRICULUM AND ADVOCATES TRAINING PROGRAMME
+
+---
+
+### 1. Introduction
+
+In Kenya, no university is allowed to offer a **Bachelor of Laws (LL.B)** degree unless it has been **licensed by the Council of Legal Education (CLE)**, in accordance with:
+
+- **Section 8**,  
+- **Section 18**, and  
+- **Section 19** of the **Legal Education Act, 2012**.
+
+The **curriculum for law schools** must comply with the statutory content requirements set out by the CLE. Failure to do so invalidates a university’s license to teach law.
+
+---
+
+### 2. Licensing of Law Schools in Kenya
+
+All Kenyan universities offering the LL.B program must:
+
+- Obtain a license from the **Council of Legal Education**  
+- Comply with course requirements as per **Section 23(1)** of the **Legal Education Act, 2012**  
+- Implement the **Second Schedule** of the Act, which outlines **16 mandatory core courses**
+
+---
+
+### 3. Core Courses Required by Law
+
+The following **16 core courses** are *compulsory* in every LL.B program in Kenya:
+
+1. Legal Research  
+2. Law of Torts  
+3. Law of Contract  
+4. Legal Systems and Methods  
+5. Criminal Law  
+6. Family Law and Succession  
+7. Law of Evidence  
+8. Commercial Law (including Sale of Goods, Hire Purchase, and Agency)  
+9. Law of Business Associations (to include Insolvency)  
+10. Administrative Law  
+11. Constitutional Law  
+12. Jurisprudence  
+13. Equity and the Law of Trusts  
+14. Property Law  
+15. Public International Law  
+16. Labour Law
+
+> ⚠️ **Note**: A university that fails to offer these courses does **not qualify** to offer a Bachelor of Laws program.
+
+---
+
+### 4. Optional Courses
+
+Universities are permitted to add **supplementary or elective courses** in addition to the 16 core units, depending on their institutional focus and resources. However, these must not substitute or override the required core curriculum.
+
+---
+
+### 5. Advocates Training Programme (ATP)
+
+The **Advocates Training Programme (ATP)** is the **postgraduate professional training** for law graduates who wish to become **Advocates of the High Court of Kenya**.
+
+- It is regulated and licensed by the **Council for Legal Education (CLE)**  
+- Governed under **Sections 8, 18, and 19** of the **Legal Education Act, 2012**  
+- Currently offered **only** at the **Kenya School of Law (KSL)** under **Section 3(1)** of the **Kenya School of Law Act, 2012**
+
+#### Mandatory Courses in ATP (Second Schedule – Legal Education Act):
+
+1. Civil Litigation  
+2. Criminal Litigation  
+3. Probate and Administration  
+4. Legal Writing and Drafting  
+5. Trial Advocacy (includes clinical program)  
+6. Professional Ethics  
+7. Legal Practice Management  
+8. Conveyancing  
+9. Commercial Transactions  
+10. **Pupilage** – a **six-month mandatory attachment**
+
+---
+
+### 6. Admission to the Advocates Training Programme
+
+Admission to the ATP requires **both academic and citizenship qualifications.**
+
+#### A. Academic Qualifications
+
+Set out under **The Legal Education (Accreditation and Quality Assurance) Regulations, 2016**, specifically **Paragraph 5 of the Third Schedule**:
+
+To qualify for ATP, one must have:
+
+- A **Bachelor of Laws (LL.B)** degree from a **recognized university**  
+- Where applicable, a **Certificate of Completion** of a **remedial program**  
+- **Proof of academic progression** in accordance with regulations  
+- A **Certificate of Completion** of the **Pre-Bar Examination** (administered by KSL)
+
+> ⚠️ The LL.B degree must comply with minimum requirements including:  
+> - **C+ mean grade** in KCSE  
+> - **B (plain)** in English or Kiswahili  
+
+#### B. Kenya School of Law Entry Criteria
+
+The Kenya School of Law admits students who:
+
+- Hold an LL.B degree from a recognized university (or awaiting conferment after final exams)  
+- Attained the **minimum entry requirement** for admission to a Kenyan university  
+- Scored **B (plain)** in **English or Kiswahili** and a **mean grade of C+** in KCSE  
+- Have **passed the Pre-Bar Exam** administered by KSL
+
+---
+
+> _“The legal education system in Kenya is designed to ensure academic rigor, professional readiness, and integrity in legal practice, producing lawyers equipped to serve the justice system effectively.”_
+
 
 
 
