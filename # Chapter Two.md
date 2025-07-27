@@ -29,6 +29,10 @@
   - [Courts with the Status of the High Court](#courts-with-the-status-of-the-high-court)
     - [Employment and Labour Relations Court (ELRC)](#employment-and-labour-relations-court-elrc)
     - [Environment and Land Court (ELC)](#environment-and-land-court-elc)
+  - [Subordinate Courts](#subordinate-courts)
+    - [Magistrates’ Courts](#magistrates-courts)
+    - [Kadhis’ Courts](#kadhis-courts)
+    - [Courts Martial](#courts-martial)
 ---
 
 ## History
@@ -371,6 +375,108 @@ The ELC has **appellate jurisdiction** over:
 > 📌 This appellate structure ensures that land and environmental matters receive expert judicial attention, reducing the burden on the High Court.
 
 ---
+
+## Subordinate Courts
+
+Subordinate courts are established under **Article 169** of the Constitution and include:
+
+- Magistrates’ Courts  
+- Kadhis’ Courts  
+- Courts Martial  
+- Any other court or local tribunal established by an Act of Parliament (excluding courts under Article 162(2))
+
+---
+
+### Magistrates’ Courts
+
+Established under the **Magistrates’ Courts Act**, these are the primary lower-level courts dealing with both criminal and civil matters.
+
+#### Judicial Ranks
+
+According to **Section 5** of the Magistrates’ Courts Act, these courts are presided over by:
+
+- Chief Magistrate  
+- Senior Principal Magistrate  
+- Principal Magistrate  
+- Senior Resident Magistrate  
+- Resident Magistrate
+
+#### Jurisdiction in Criminal Matters
+
+- Defined by **Section 6** of the Magistrates’ Courts Act and **Section 7** of the Criminal Procedure Code (Cap. 75).
+- Magistrates handle a wide range of criminal matters unless exclusive jurisdiction is assigned elsewhere.
+
+#### Jurisdiction in Civil Matters
+
+- **Section 7** of the Magistrates’ Courts Act prescribes **pecuniary jurisdiction** as follows:
+
+| Magistrate Rank              | Monetary Jurisdiction (Ksh) |
+|-----------------------------|-----------------------------|
+| Chief Magistrate            | Up to 20 million            |
+| Senior Principal Magistrate | Up to 15 million            |
+| Principal Magistrate        | Up to 10 million            |
+| Senior Resident Magistrate  | Up to 7.5 million           |
+| Resident Magistrate         | Up to 5 million             |
+
+> 📌 Claims exceeding Ksh 20 million must be filed in the **High Court**.
+
+#### Environment & Labour Jurisdiction
+
+- **Section 9** of the Act grants Magistrates jurisdiction in **environmental and employment matters**, subject to the pecuniary thresholds defined above.
+
+#### Customary Law Jurisdiction
+
+Under **Section 7(3)** of the Magistrates’ Courts Act, these courts may determine civil matters under African customary law relating to:
+
+- Customary land tenure  
+- Marriage, divorce, dowry, and maintenance  
+- Seduction or pregnancy of unmarried women  
+- Adultery and enticement  
+- Status of widows and children (custody, guardianship, legitimacy, adoption)  
+- **Intestate succession** (where not governed by written law)
+
+---
+
+### Kadhis’ Courts
+
+Established under Article 169 and governed by the **Kadhis’ Courts Act**, these courts deal exclusively with **Muslim personal law**.
+
+#### Jurisdiction (Constitutional Scope)
+
+- Confined to questions of **Muslim law** relating to:
+  - Personal status
+  - Marriage and divorce
+  - Inheritance
+
+> 🕌 Jurisdiction is **only valid** if **all parties profess the Muslim faith**.  
+> ⚖️ The **High Court and Magistrates’ Courts** may also hear such matters if filed before them.
+
+---
+
+### Courts Martial
+
+The **Courts Martial** are established to try members of the **Kenya Defence Forces (KDF)** for offences under military law.
+
+#### Composition
+
+Under the **Kenya Defence Forces Act, 2012**, the court consists of:
+
+- A **Judge Advocate**, appointed under Section 165 (presiding officer)
+- At least **five members** (if the accused is a commissioned officer)
+- At least **three members** (in other cases)
+
+#### Jurisdiction
+
+- Handles offences under the **Kenya Defence Forces Act, 2012**
+- May try both criminal and disciplinary offences involving KDF personnel
+
+#### Appeals
+
+- Appeals lie with the **High Court** under **Section 186** of the Kenya Defence Forces Act.
+
+---
+
+
 
 
 
