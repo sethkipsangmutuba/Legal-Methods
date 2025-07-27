@@ -24,9 +24,9 @@
     - [Jurisdiction](#jurisdiction)
     - [Advisory Opinions](#advisory-opinions)
     - [Special Jurisdiction](#special-jurisdiction)
-- [The Court of Appeal](#the-court-of-appeal)
-- [The High Court](#the-high-court)
-- [Courts with the Status of the High Court](#courts-with-the-status-of-the-high-court)
+ - [The Court of Appeal](#the-court-of-appeal)
+ - [The High Court](#the-high-court)
+ - [Courts with the Status of the High Court](#courts-with-the-status-of-the-high-court)
   - [Employment and Labour Relations Court (ELRC)](#employment-and-labour-relations-court-elrc)
   - [Environment and Land Court (ELC)](#environment-and-land-court-elc)
 ---
