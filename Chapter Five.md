@@ -32,6 +32,17 @@
 - [4. Optional Courses](#4-optional-courses)  
 - [5. Advocates Training Programme (ATP)](#5-advocates-training-programme-atp)  
 - [6. Admission to the Advocates Training Programme](#6-admission-to-the-advocates-training-programme)
+   
+-### LANGUAGE AND NATIONALITY REQUIREMENTS FOR ADMISSION TO THE ADVOCATES TRAINING PROGRAMME
+
+---
+- [1. English or Kiswahili KCSE Requirement](#1-english-or-kiswahili-kcse-requirement)  
+- [2. Academic Progression Argument](#2-academic-progression-argument)  
+- [3. Court of Appeal Ruling - KSL vs Otene & Others](#3-court-of-appeal-ruling---ksl-vs-otene--others)  
+- [4. Equivalency for Foreign Candidates](#4-equivalency-for-foreign-candidates)  
+- [5. Nationality and Bar Admission](#5-nationality-and-bar-admission)  
+- [6. Discrimination and Case Law](#6-discrimination-and-case-law)  
+- [7. Conclusion](#7-conclusion)
 
 
 ---
@@ -349,7 +360,106 @@ The Kenya School of Law admits students who:
 
 ---
 
-> _“The legal education system in Kenya is designed to ensure academic rigor, professional readiness, and integrity in legal practice, producing lawyers equipped to serve the justice system effectively.”_
+# LANGUAGE AND NATIONALITY REQUIREMENTS FOR ADMISSION TO THE ADVOCATES TRAINING PROGRAMME
+
+---
+
+### 1. English or Kiswahili KCSE Requirement
+
+The **Legal Education (Accreditation and Quality Assurance) Regulations, 2016**, make it **mandatory** for any applicant seeking admission to the Advocates Training Programme (ATP) at the Kenya School of Law to have scored **a minimum of B (plain)** in either:
+
+- **English**, or  
+- **Kiswahili**,  
+
+in their **Kenya Certificate of Secondary Education (KCSE)** examinations.
+
+---
+
+### 2. Academic Progression Argument
+
+Some prospective students have attempted to circumvent this strict requirement by relying on **"academic progression"**, a term referenced in **Paragraphs 3 and 4** of the Accreditation Regulations. The argument is that remedial qualifications, such as:
+
+- A **Certificate in Law**, or  
+- A **Diploma in Law**,  
+
+could make up for the language grade deficiency. However, this argument has **consistently failed in court**.
+
+---
+
+### 3. Court of Appeal Ruling – *KSL vs Otene & Others*
+
+In the **Court of Appeal decision** of **Nairobi CACA No. E472 of 2021 – *Kenya School of Law vs Otene Richard Akomo & 41 Others***, the issue was squarely addressed.
+
+**Holding**:
+> "Failure to meet the basic requirements of the qualifications in KCSE as envisaged renders one’s application incompetent... The regulations cannot override the provisions of an Act of Parliament."
+
+Despite having a favorable judgment in the **High Court**, the respondents’ hopes were dashed when the **Court of Appeal overturned the ruling**, affirming the **B (plain) in English or Kiswahili** as **non-negotiable**.
+
+---
+
+### 4. Equivalency for Foreign Candidates
+
+For those with **foreign secondary school qualifications**, the **Kenya National Qualifications Authority (KNQA)** is tasked with determining **equivalency**.
+
+Example:
+- A student from Uganda or South Africa would submit their certificate to KNQA, which would then equate their English grade to the KCSE standard. If it does **not match B (plain)**, the applicant is **not eligible**.
+
+---
+
+### 5. Nationality and Bar Admission
+
+Beyond academic qualifications, **citizenship** also plays a role.
+
+#### Legal Framework:
+- **Section 12 of the Advocates Act (Cap 16)** provides that **only citizens** of:
+  - **Kenya**
+  - **Uganda**
+  - **Tanzania**
+  - **Rwanda**
+  - **Burundi**
+
+  are automatically eligible to be admitted as Advocates of the High Court of Kenya.
+
+---
+
+### 6. Discrimination and Case Law
+
+Several cases have challenged the **restrictive interpretation** of Section 12, arguing that it is **discriminatory** and violates **Article 27 of the Constitution** (equality and freedom from discrimination).
+
+#### ✅ Case 1:  
+**Steve Isaack Kawai & 2 Others v Council of Legal Education & 2 Others [2021] eKLR**
+
+> Petitioners were **South Sudanese refugees** who had studied in Kenya from primary school to university. They had even completed the ATP but were barred from sitting the bar exams.
+
+**Court held**:
+> _"Citizens of South Sudan should not be excluded from the benefits available to citizens of other EAC countries simply because South Sudan joined later. The denial of rights based on timing of accession to the EAC is unconstitutional."_
+
+---
+
+#### ✅ Case 2:  
+**Jonnah Tusasirwe & 10 Others v Council of Legal Education & 3 Others [2017] eKLR**
+
+- Included applicants from countries **not listed** under Section 12.
+- The Kenya School of Law had **previously admitted** students from **Cameroon, Nigeria, Gambia**, etc.
+
+**Court held**:
+> _"The denial of admission on nationality grounds was unsupported by statute and unconstitutional. Past precedence and the plain meaning of the law support inclusivity."_  
+> _"The decision of the CLE is null and void."_
+
+---
+
+### 7. Conclusion
+
+#### ⚖️ Summary:
+- The **language requirement (B plain)** in **English or Kiswahili** at KCSE (or equivalent) is **compulsory**.
+- There is **no legal workaround or substitute**, not even with a diploma or certificate.
+- The requirement applies **equally** to graduates from **Kenyan and foreign universities**.
+- On **nationality**, while the statute limits eligibility to EAC citizens, **judicial interpretation has expanded** the scope, enabling **non-EAC nationals** to access ATP and subsequently qualify for bar admission in Kenya.
+
+#### 📌 Final Word:
+The **legal and judicial frameworks** underscore Kenya’s intent to **uphold quality and equality** in its legal profession. Prospective candidates must comply strictly with both **academic and nationality** requirements, although **courts have ensured fairness and inclusivity** where discriminatory gaps exist in the law.
+
+---
 
 
 
