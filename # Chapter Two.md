@@ -34,7 +34,7 @@
     - [Kadhis’ Courts](#kadhis-courts)
     - [Courts Martial](#courts-martial)
       
-  -THE PLACE OF CUSTOMARY LAW IN KENYA
+   -THE PLACE OF CUSTOMARY LAW IN KENYA
     - [1. Introduction](#1-introduction)
     - [2. Customary Law under the Judicature Act](#2-customary-law-under-the-judicature-act)
     - [3. Colonial Courts and Customary Law](#3-colonial-courts-and-customary-law)
