@@ -322,21 +322,113 @@ This transformation significantly contributed to **social order** and **institut
 
 ---
 
-> _"The emergence of Common Law marked a turning point in the legal history of the Western world — it signified a shift from tribal vengeance to structured justice."_  
-> — **Professor Seth, PhD Legal Systems & Methods**
+## Main Characteristics of the Common Law Legal System
+
+The **Common Law system** possesses a set of unique characteristics that distinguish it from other legal systems such as **Civil Law**, **Islamic Law**, and **Customary Law**. These characteristics are foundational in shaping both the **structure** and **application** of law in Common Law jurisdictions.
+
+---
+
+### 🧑‍⚖️ Case Law
+
+One of the most defining features of the common law tradition is its reliance on **case law**—legal rules developed by **judges through judicial decisions**. In Common Law systems, particularly before legislative dominance, judges were **primary law-makers**.
+
+While legislatures have now become the main sources of legal rules, **judicial decisions continue to evolve the law** in areas such as torts, contracts, and constitutional interpretation.
+
+---
+
+### 🏛️ Role of Judges
+
+Judges in Common Law systems function as **impartial umpires**. They listen to both parties, evaluate evidence presented, and **decide the case based on arguments made in court**. Unlike judges in Civil Law systems, Common Law judges:
+
+- Do not independently investigate facts  
+- Rely on evidence and legal arguments presented by the **lawyers**  
+- Maintain neutrality between the prosecution and defense  
+
+This structure gives rise to the **adversarial nature** of proceedings in Common Law jurisdictions.
+
+---
+
+### 📜 Doctrine of Stare Decisis (Judicial Precedent)
+
+**Stare decisis** is a **core doctrine** in Common Law. It translates from Latin as:
+
+> **"To stand by things decided and not to disturb the settled."**
+
+In simple terms, courts are bound to follow legal principles laid down in **previous judicial decisions**, particularly from **higher courts**. This promotes:
+
+- **Consistency**  
+- **Predictability**  
+- **Judicial efficiency**
+
+#### 💬 Scholarly Definition:
+> "The rule of adherence to judicial precedents finds its expression in the doctrine of stare decisis. This doctrine is simply that, when a point or principle of law has been once officially decided... it will no longer be considered as open for examination... unless it be for urgent reasons in exceptional cases."  
+> — *William M. Lile et al.,* _Brief Making and the Use of Law Books_, 3rd Edition, 1914
+
+---
+
+### 🧭 Categories of Stare Decisis
+
+Stare decisis can be categorized into three distinct types:
+
+#### 1. Horizontal Stare Decisis  
+A court follows **its own prior decisions** unless there's a strong justification to depart.  
+- In **Kenya**, horizontal stare decisis is **not strictly binding** due to Article 163(7) of the Constitution:
+
+> "All courts, other than the Supreme Court, are bound by the decisions of the Supreme Court."
+
+- Implication: The Supreme Court may **depart from its own decisions**, and by analogy, so may the Court of Appeal and High Court.
+
+#### 2. Super Stare Decisis  
+Under this theory, courts follow previous decisions **regardless of their correctness**, often to preserve legal stability. It is rare and controversial because it **prioritizes consistency over accuracy**.
+
+#### 3. Vertical Stare Decisis  
+This principle binds **lower courts to follow decisions** from **higher courts** in the same jurisdiction.  
+- E.g., In Kenya, all lower courts must follow decisions from the **Court of Appeal** and **Supreme Court**.
+
+---
+
+### ⚖️ What is Ratio Decidendi?
+
+**Ratio decidendi** means *"the reason for the decision"*. It refers to the **legal principle or rule of law** upon which a judicial decision is founded.
+
+#### Black’s Law Dictionary Definition:
+- "The principle or rule of law on which a court’s decision is founded."
+- "The rule without which a case would have been decided differently."
+
+💡 *Ratio decidendi* is **binding precedent**, whereas **obiter dicta** (statements made in passing) are **persuasive only**.
+
+---
+
+### 👨‍💼 Role of Lawyers
+
+Lawyers in the Common Law system perform crucial, dynamic functions. Unlike Civil Law systems, where judges investigate facts, **lawyers in Common Law adversarial trials**:
+
+- **Cross-examine witnesses**
+- **Investigate and present evidence**
+- **Formulate legal strategy**
+- **Advocate** vigorously on behalf of clients
+
+Their active participation means they **drive the litigation process**, shaping the court’s understanding of both **facts** and **law**.
+
+---
+
+### 🧾 Summary of Key Characteristics
+
+| Feature                  | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Case Law                 | Law evolves through judicial decisions                                       |
+| Role of Judges           | Neutral umpires; passive fact-finders                                       |
+| Adversarial System       | Lawyers actively present and challenge evidence                             |
+| Stare Decisis            | Legal precedent binds future decisions                                      |
+| Ratio Decidendi          | The binding legal principle in a decision                                   |
+| Vertical Precedent       | Lower courts follow higher courts' rulings                                  |
+| Horizontal Precedent     | Courts may follow their own decisions (varies by jurisdiction)              |
+
+---
+
+> _"A legal system without stare decisis would be chaotic and unpredictable; Common Law, by preserving judicial precedent, ensures the law evolves in a reasoned and principled manner."_  
+> — **Professor Seth, PhD in Legal Systems and Methods**
 
 ---
 
 ➡️ **Next Topic: Civil Law Legal System**
-
-
-
-
-
-
-
-
-
-> _"Understanding the structure of legal systems is foundational to interpreting the law, advocating for clients, and engaging in meaningful legal reform."_  
-> — **Professor Seth, PhD (Legal Systems & Methods)**
-
