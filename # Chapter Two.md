@@ -34,17 +34,17 @@
     - [Kadhis’ Courts](#kadhis-courts)
     - [Courts Martial](#courts-martial)
       
- -THE PLACE OF CUSTOMARY LAW IN KENYA
-  - [1. Introduction](#1-introduction)
-  - [2. Customary Law under the Judicature Act](#2-customary-law-under-the-judicature-act)
-  - [3. Colonial Courts and Customary Law](#3-colonial-courts-and-customary-law)
-  - [4. Repugnancy Test and Judicial Attitudes](#4-repugnancy-test-and-judicial-attitudes)
-  - [5. Criminal Offences and Customary Law](#5-criminal-offences-and-customary-law)
-  - [6. Government Efforts to Restate Customary Law](#6-government-efforts-to-restate-customary-law)
-  - [7. Post-Independence Court Approach](#7-post-independence-court-approach)
-  - [8. Key Judicial Pronouncements](#8-key-judicial-pronouncements)
-  - [9. Development and Flexibility of Customary Law](#9-development-and-flexibility-of-customary-law)
-  - [10. Conclusion](#10-conclusion)
+  -THE PLACE OF CUSTOMARY LAW IN KENYA
+    - [1. Introduction](#1-introduction)
+    - [2. Customary Law under the Judicature Act](#2-customary-law-under-the-judicature-act)
+    - [3. Colonial Courts and Customary Law](#3-colonial-courts-and-customary-law)
+    - [4. Repugnancy Test and Judicial Attitudes](#4-repugnancy-test-and-judicial-attitudes)
+    - [5. Criminal Offences and Customary Law](#5-criminal-offences-and-customary-law)
+    - [6. Government Efforts to Restate Customary Law](#6-government-efforts-to-restate-customary-law)
+    - [7. Post-Independence Court Approach](#7-post-independence-court-approach)
+    - [8. Key Judicial Pronouncements](#8-key-judicial-pronouncements)
+    - [9. Development and Flexibility of Customary Law](#9-development-and-flexibility-of-customary-law)
+    - [10. Conclusion](#10-conclusion)
 ---
 
 ## History
