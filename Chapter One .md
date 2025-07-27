@@ -21,17 +21,14 @@
         - [Henry II’s Reforms](#henry-iis-reforms)  
         - [Written Decisions and Precedent](#written-decisions-and-precedent)  
         - [Social Impact](#social-impact)  
-8. [Main Characteristics of the Common Law System](#main-characteristics-of-the-common-law-system)  
-    - [Case Law](#case-law)  
-    - [Role of Judges](#role-of-judges)  
-    - [Adversarial System](#adversarial-system)  
-    - [Stare Decisis](#stare-decisis)  
-    - [Ratio Decidendi](#ratio-decidendi)  
-    - [Vertical Precedent](#vertical-precedent)  
-    - [Horizontal Precedent](#horizontal-precedent)
-
-
-
+   - [Main Characteristics of the Common Law System](#main-characteristics-of-the-common-law-system)  
+       - [Case Law](#case-law)  
+       - [Role of Judges](#role-of-judges)  
+       - [Adversarial System](#adversarial-system)  
+       - [Stare Decisis](#stare-decisis)  
+       - [Ratio Decidendi](#ratio-decidendi)  
+       - [Vertical Precedent](#vertical-precedent)  
+       - [Horizontal Precedent](#horizontal-precedent)
 
 ---
 
