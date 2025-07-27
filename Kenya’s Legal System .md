@@ -24,14 +24,14 @@ _Compiled under the academic guidance of Seth –  Legal Systems and Methods_
 6. [Reforms: African Courts Ordinance (1951)](#reforms-african-courts-ordinance-1951)  
 7. [Development of Criminal Law](#development-of-criminal-law)
 8. [Sources of Law](#sources-of-law)  
-. [Court System Hierarchy](#court-system-hierarchy)  
+9. [Court System Hierarchy](#court-system-hierarchy)  
    - [Supreme Court](#supreme-court)  
-9   - [Court of Appeal](#court-of-appeal)  
+   - [Court of Appeal](#court-of-appeal)  
    - [High Court](#high-court)  
    - [Courts with Status of the High Court](#courts-with-status-of-the-high-court)  
    - [Subordinate Courts](#subordinate-courts)  
-10. [Magistrates’ Courts](#magistrates-courts)  
-11. [Customary Law Jurisdiction](#customary-law-jurisdiction)  
+   - [Magistrates’ Courts](#magistrates-courts)  
+10. [Customary Law Jurisdiction](#customary-law-jurisdiction)  
 12. [Courts Martial](#courts-martial)
 13. 
 
