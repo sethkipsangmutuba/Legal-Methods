@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 1. [Chapter One: Introduction](#chapter-one-introduction)  
 2. [Forms of Social Interaction](#forms-of-social-interaction)  
@@ -12,15 +12,25 @@
 6. [Definition of Terms](#definition-of-terms)  
     - [What is Law?](#what-is-law)  
     - [Schools of Thought](#schools-of-thought)  
-7. [Legal System](#legal-system)  
+7. [The Legal System](#legal-system)  
     - [Kenyan Legal System](#kenyan-legal-system)  
     - [Common Law Legal System](#common-law-legal-system)  
-        - [History of the Common Law](#history-of-the-common-law)  
+        - [History of Common Law](#history-of-common-law)  
         - [Feudal Land Law](#feudal-land-law)  
-        - [Development of Centralized Judiciary](#development-of-centralized-judiciary)  
+        - [Development of a Centralized Judiciary](#development-of-a-centralized-judiciary)  
         - [Henry II’s Reforms](#henry-iis-reforms)  
         - [Written Decisions and Precedent](#written-decisions-and-precedent)  
         - [Social Impact](#social-impact)  
+8. [Main Characteristics of the Common Law System](#main-characteristics-of-the-common-law-system)  
+    - [Case Law](#case-law)  
+    - [Role of Judges](#role-of-judges)  
+    - [Adversarial System](#adversarial-system)  
+    - [Stare Decisis](#stare-decisis)  
+    - [Ratio Decidendi](#ratio-decidendi)  
+    - [Vertical Precedent](#vertical-precedent)  
+    - [Horizontal Precedent](#horizontal-precedent)
+
+
 
 
 ---
