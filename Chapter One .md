@@ -12,7 +12,16 @@
 6. [Definition of Terms](#definition-of-terms)  
     - [What is Law?](#what-is-law)  
     - [Schools of Thought](#schools-of-thought)  
-    - [Summary Definition](#summary-definition)  
+7. [Legal System](#legal-system)  
+    - [Kenyan Legal System](#kenyan-legal-system)  
+    - [Common Law Legal System](#common-law-legal-system)  
+        - [History of the Common Law](#history-of-the-common-law)  
+        - [Feudal Land Law](#feudal-land-law)  
+        - [Development of Centralized Judiciary](#development-of-centralized-judiciary)  
+        - [Henry II’s Reforms](#henry-iis-reforms)  
+        - [Written Decisions and Precedent](#written-decisions-and-precedent)  
+        - [Social Impact](#social-impact)  
+
 
 ---
 
@@ -181,15 +190,145 @@ It performs key roles:
 - **Defines rights and duties**
 - **Facilitates orderly change**
 - **Protects freedoms and enforces responsibilities**
+---
+
 
 ---
 
-## Next Topic
+## Legal System
 
-➡ **[Definition of Legal System](#definition-of-a-legal-system)** *(continued in next section)*
+A **legal system** is the **combination of laws, institutions, processes, and personnel** that work together to administer justice and maintain social order.
 
-> _"To understand the law, one must explore its sources, structures, and philosophies across history."_  
-> — **Professor Seth, PhD Legal Systems and Methods**
+### Kenyan Legal System
+
+Kenya’s legal system is based on the **Common Law legal tradition**, inherited from **England** during the colonial period. Before colonization, diverse indigenous communities had their own **customary laws and governance structures** suited to their needs.
+
+### Examples of Legal Systems:
+
+- **Common Law**
+- **Civil Law**
+- **Islamic Law**
+- **Customary Law**
+
+---
+
+## Common Law Legal System
+
+### History of the Common Law
+
+The **Common Law** system originated during the early **Middle Ages** in the **King’s Royal Court (Curia Regis)** at **Westminster** in England. At its inception, the system lacked substantive law and focused largely on **procedural remedies**.
+
+Initially, courts—not the legislature—were the **main law-makers**, and their **decisions became law** through precedent.
+
+---
+
+### Norman Conquest of 1066 A.D
+
+The **Norman Conquest**, led by **William the Conqueror**, profoundly changed England’s political and legal landscape. The conquest transformed wrongs from **private compensable acts** to **public crimes**, often punishable by death or forfeiture.
+
+Key impacts of the Norman Conquest:
+
+- Introduction of **feudalism**
+- **Centralized governance**
+- Establishment of **bureaucracy** and **record-keeping**
+- Retention of **Anglo-Saxon traditions**, such as:
+  - **Trial by ordeal or combat**
+  - **Jury system**
+  - **Outlawry and writs**
+
+Although the Normans had their own laws, they **did not impose Norman law** wholesale in England. Instead, a **new body of rules** emerged, adapted to **local conditions**.
+
+---
+
+### Feudal Land Law
+
+Agriculture was central to England’s economy, making **land** the primary source of wealth. The structure of land ownership followed a **feudal hierarchy**:
+
+#### Feudal Hierarchy:
+
+- **King** – ultimate owner of all land  
+- **Tenants in Chief** – granted land by the king  
+- **Intermediate Tenants** – known as “mesne” lords  
+- **Serfs/Tenants in Demesne** – worked the land under obligation  
+
+Each land holding was subject to a **specific tenure** (payment/service system). The major land interests that emerged were:
+
+- **Fee Simple** – inheritable by any heir  
+- **Fee Tail** – inheritable only by direct descendants  
+- **Life Estate** – interest lasting only during the holder’s lifetime  
+
+#### Land Transfer:
+
+- Conducted via **formal rituals**, not written deeds  
+- Public ceremonies helped **verify and publicize** land transactions
+
+These rules originated in **lords’ manorial courts**, but were later **refined by the King’s Court** (13th century), giving rise to **standardized remedies**.
+
+---
+
+### Development of Centralized Judiciary
+
+A centralized judiciary emerged through:
+
+- **Dominance of Royal Courts**
+- **Judges traveling ("on circuit")** to provincial towns  
+- Application of **Westminster law** across regions  
+
+Customs were only accepted if **provable and reasonable**, and judges often preferred national law.
+
+By the **13th century**, three royal courts had been established:
+
+1. **The Exchequer**
+2. **The Court of Common Pleas**
+3. **The King’s Bench**
+
+---
+
+### Henry II’s Reforms
+
+**King Henry II** (reigned 1154–1189) inherited a fractured kingdom and sought **legal uniformity**. His reforms included:
+
+- Centralization of **justice** under the **crown**
+- Creation of a **professional judiciary**
+- Deployment of **itinerant judges** to apply Westminster laws nationwide
+
+As a result, **local customs** gave way to **national uniform laws**, hence the term **“Common Law”**.
+
+---
+
+### Written Decisions and Precedent
+
+Court decisions were gradually **documented and published**, creating **precedents**. This led to the development of:
+
+- **Stare decisis** (the doctrine of judicial precedent)
+- Use of **past rulings** to decide present and future cases
+
+---
+
+### Social Impact
+
+Before the rise of courts, **violence and vendetta** were common means of resolving disputes.
+
+The **Common Law system** introduced:
+
+- **Peaceful dispute resolution** through judicial processes  
+- Legal remedies in:
+  - **Contracts**
+  - **Debt**
+  - **Land**
+  - **Crime**
+
+This transformation significantly contributed to **social order** and **institutional stability**.
+
+---
+
+> _"The emergence of Common Law marked a turning point in the legal history of the Western world — it signified a shift from tribal vengeance to structured justice."_  
+> — **Professor Seth, PhD Legal Systems & Methods**
+
+---
+
+➡️ **Next Topic: Civil Law Legal System**
+
 
 
 
